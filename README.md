@@ -70,8 +70,8 @@ Para produção, é recomendado configurar envio de emails ou banco de dados.
 Este projeto é ideal para aprendizado de Flask e criação de pequenos formulários interativos.
 
 📸 Preview
-![Formulario Contato](Captura1.png)
 
+![Preview do Formulário](Captura1.png)
 
 📄 Licença
 Este projeto é open source. Sinta-se à vontade para usar e modificar.
